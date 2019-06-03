@@ -25,3 +25,6 @@
 * [3a_GemPy-discretize-emg3d](./3a_GemPy-discretize-emg3d.ipynb)  
   Calculating the CSEM response for a geological model created in GemPy.
 
+## 4. Tools
+* [4a_RAM-requirements](./4a_RAM-requirements.ipynb)  
+  Calculating the RAM required for a certain model size.
