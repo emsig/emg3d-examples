@@ -31,3 +31,7 @@
 
 * [4b_Runtime](./4b_Runtime.ipynb)  
   Calculating the required runtime as a function of model size.
+
+## 5. Various
+* [5a_Obtaining_the_magnetic_field](./5a_Obtaining_the_magnetic_field.ipynb)  
+  Calculating the magnetic field from the electric field obtained from `emg3d`.
