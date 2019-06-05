@@ -27,4 +27,7 @@
 
 ## 4. Tools
 * [4a_RAM-requirements](./4a_RAM-requirements.ipynb)  
-  Calculating the RAM required for a certain model size.
+  Calculating the required memory as a function of model size.
+
+* [4b_Runtime](./4b_Runtime.ipynb)  
+  Calculating the required runtime as a function of model size.
