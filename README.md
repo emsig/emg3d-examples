@@ -35,3 +35,6 @@
 ## 5. Various
 * [5a_Obtaining_the_magnetic_field](./5a_Obtaining_the_magnetic_field.ipynb)  
   Calculating the magnetic field from the electric field obtained from `emg3d`.
+
+* [5b_Magnetic_permeability](./5b_Magnetic_permeability.ipynb)  
+  Calculating a model with magnetic permeability.
