@@ -1,9 +1,17 @@
 # Examples for [emg3d](https://github.com/empymod/emg3d)
 
 
+0. [Examples and Tutorials](#user-content-0-examples-and-tutorials)
 1. [Comparisons](#user-content-1-comparisons)
 2. [Reproducing published results](#user-content-2-reproducing-published-results)
 3. [Interaction with other tools](#user-content-3-interaction-with-other-tools)
+4. [Tools](#user-content-4-tools)
+5. [Various](#user-content-5-various)
+
+
+## 0. Examples and Tutorials
+* [0a_Minimum_working_example](./0a_Minimum_working_example.ipynb)  
+  Minimum working example to get started with `emg3d` and plotting the result.
 
 
 ## 1. Comparisons
