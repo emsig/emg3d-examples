@@ -24,6 +24,9 @@
 * [1c_3D_triaxial_SimPEG](./1c_3D_triaxial_SimPEG.ipynb)  
   3D with tri-axial anisotropy comparison between `emg3d` and `SimPEG`.
 
+* [1d_1D_VTI_empymod-Laplace](./1d_1D_VTI_empymod-Laplace.ipynb)  
+  1D VTI comparison between `emg3d` and `empymod` in the Laplace domain.
+
 
 ## 2. Reproducing published results
 * [2a_SEG-EAGE_3D-Salt-Model](./2a_SEG-EAGE_3D-Salt-Model.ipynb)  
