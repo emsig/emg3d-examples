@@ -6,3 +6,6 @@ Dev*
 *.zip
 *.ZIP
 *@@
+*.bak
+*.dat
+*.dir
