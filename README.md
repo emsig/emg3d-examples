@@ -7,7 +7,7 @@
 3. [Interaction with other tools](#user-content-3-interaction-with-other-tools)
 4. [Tools](#user-content-4-tools)
 5. [Various](#user-content-5-various)
-5. [Time-domain](#user-content-6-time-domain)
+6. [Time-domain](#user-content-6-time-domain)
 
 
 ## 0. Examples and Tutorials
@@ -52,5 +52,8 @@
   Calculating a model with magnetic permeability.
 
 ## 6. Time-domain
+* [6a_Fullspace](./6a_Fullspace.ipynb)  
+  Transient CSEM for a homogeneous fullspace, using FFTLog or DLF..
+
 * [6b_Marine-1D](./6b_Marine-1D.ipynb)  
   Transient CSEM for a layered, marine model.
