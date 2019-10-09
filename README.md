@@ -44,6 +44,9 @@
 * [4b_Runtime](./4b_Runtime.ipynb)  
   Calculating the required runtime as a function of model size.
 
+* [4c_Check_boundary4airwave](./4c_Check_boundary4airwave.ipynb)  
+  Example how to verify if the model limits are far enough in x, y, and z.
+
 ## 5. Various
 * [5a_Obtaining_the_magnetic_field](./5a_Obtaining_the_magnetic_field.ipynb)  
   Calculating the magnetic field from the electric field obtained from `emg3d`.
