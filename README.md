@@ -13,8 +13,12 @@
 ## 0. Examples and Tutorials
 * [0a_Minimum_working_example](./0a_Minimum_working_example.ipynb)  
   Minimum working example to get started with `emg3d` and plotting the result.
+
 * [0b_Parameter_tests](./0b_Parameter_tests.ipynb)  
   How to compare different settings.
+
+* [0c_Total-vs-PS-Field](./0c_Total-vs-PS-Field.ipynb)  
+  Comparison of total field versus primary-secondary field calculations.
 
 
 ## 1. Comparisons
