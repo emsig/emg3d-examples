@@ -1,3 +1,5 @@
+# Outdated and archived; examples moved to the gallery. See https://empymod.github.com/emg3d-gallery.
+
 # Examples for [emg3d](https://github.com/empymod/emg3d)
 
 
